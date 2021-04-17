@@ -1,0 +1,52 @@
+body {
+    background-color: rgb(247, 246, 234);
+    font-family: sans-serif;
+}
+
+h1 {
+    
+    font-family: sans-serif;
+    font-weight: 600;
+    color: rgb(184, 149, 73);
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    margin: 1em 2em 1em 1.2em;
+}
+
+h2 {
+    font-family: sans-serif;
+    font-weight: 450;
+    color: rgb(184, 149, 73);
+    letter-spacing: 1.15px;
+    margin: 1em 2em 1em 1.6em;
+}
+
+h3 {
+    font-family: sans-serif;
+    font-weight: 400;
+    color: rgb(119, 168,67);
+    margin: 1em 2em 1em 2em;
+}
+
+h4 {
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+    color: rgb(58, 56, 58);
+}
+
+p {
+    
+    font-size: 15px;
+    
+}
+
+ul {
+    margin: 1em 2em 1em 2em;
+    list-style: circle;
+}
+
+.price {
+    font-style: italic;
+    color: rgb(61, 61, 61);
+}
