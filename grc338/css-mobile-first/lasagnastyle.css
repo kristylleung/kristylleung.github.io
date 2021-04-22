@@ -1,0 +1,55 @@
+/*CSS DOCUMENT*/
+
+@import url("https://use.typekit.net/lck5ubd.css");
+
+body {
+    padding: 0.5em;
+    font-family: mrs-eaves-xl-serif, serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+h1 {
+    font-weight: 500;
+    font-size: 2.5em;
+    font-family: grange-extended, serif;
+    line-height: 1.3em;
+    font-style: normal;
+}
+
+h2 {
+    font-weight: 200;
+    font-size: 1em;
+    line-height: 1em;
+    letter-spacing: 0.1em;
+    font-style: italic;
+    text-transform: uppercase;
+}
+
+figure, .ingredients, .directions {
+    padding: 0.5em;
+}
+
+img {
+    width: 100%; /*Please leave this line.*/
+}
+
+figcaption {
+    padding-top: 1em;
+    line-height: 1.3em;
+}
+
+ul, ol {
+    line-height: 1.5em;
+}
+
+footer {
+    font-style: italic;
+    padding-left: 0.5em;
+}
+
+/*By the way, when we use the slash-asterisk combo, it’s a comment on the CSS and it’s meant for human beings. The machine knows it is not supposed to process anything until it finds a asterisk-slash combo that ends the comment on the CSS. */
