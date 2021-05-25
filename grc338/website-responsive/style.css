@@ -1,0 +1,135 @@
+/*CSS DOCUMENT*/
+@import url("https://use.typekit.net/kdw7qtc.css");
+
+nav ul {
+    padding: 1em;
+}
+
+nav ul li {
+    font-family: sofia-pro, sans-serif;
+    font-size: 0.9em;
+    font-weight: 500;
+    list-style-type: none;
+    display: inline;
+    margin-right: 2em;
+    text-transform: uppercase;
+    margin-right: 1.5em;
+}
+
+nav ul li a {
+    color: #222222;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    color: #A3442A;
+}
+
+body {
+    padding: 0.5em;
+    font-family: sofia-pro, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 0.9em;
+    letter-spacing: 0.01em;
+    line-height: 1.5em;
+    background-color: #F3F0E4;
+}
+
+header {
+    padding: 0.5em;
+}
+
+article {
+    margin-right: 1.3em;
+}
+
+h1 {
+    width: 5em;
+    padding-left: 0.4em;
+}
+
+h2, h3, h5 {
+    color: #A3442A;
+}
+
+h2 {
+    font-weight: 700;
+    font-size: 1.4em;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    text-align: left;
+    padding-top: 0.5em;
+    margin-left: 1em; 
+}
+
+h3 {
+    padding-top: 1.3em;
+    font-size: 1.3em;
+}
+
+ul {
+    padding-left: 0em;
+}
+
+ul li {
+    list-style-type: none;
+}
+
+.menuitem, .price {
+    font-style: italic;
+    margin-top: 0.5em;
+    margin-left: auto;
+}
+
+.address {
+    padding-left: 0.2em;
+    margin-top: 0.2em;
+}
+
+h4 {
+    padding-top: 1.5em;
+}
+
+p {
+    margin-left: 1.25em;
+}
+
+figure {
+    margin: 0em;
+    padding: 0.5em;
+}
+
+.locations {
+    padding-left: 1.2em;
+}
+
+img {
+    width: 100%; /*Please leave this line.*/
+}
+
+footer {
+    font-style: italic;
+    font-size: 0.8em;
+    text-transform: uppercase;
+    padding-top: 1.3em;
+}
+
+footer a {
+    color: #222222;
+    text-decoration: none; 
+}
+
+footer a:hover {
+    color: #A3442A;
+}
+
+@media screen and (min-width: 40em){
+    
+    div.container {
+        max-width: 60em;
+        margin: auto;
+    }
+}
+
+/*Please don’t change this CSS stylesheet for the content hierarchy assginment */
