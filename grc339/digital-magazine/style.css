@@ -15,19 +15,19 @@ div.logo {
 }
 
 img.cover {
-    height: 250px;
+    height: 15.625rem;
     object-fit: cover;
 }
 
 img.main {
-    height: 400px;
+    height: 25rem;
     object-fit: cover;
     object-position: 25% 75%;
 }
 
 img.mainstory {
     margin-top: 3em;
-    height: 400px;
+    height: 25rem;
     object-fit: cover;
     
 }
